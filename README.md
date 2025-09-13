@@ -19,9 +19,14 @@ The project delivers insights and recommendations across the following key areas
 ---
 
 ## 📊 Deliverables
-- **Interactive Tableau Dashboard** – [Download here](#)  
-- **SQL Queries** – Scripts used to clean, organize, and prepare data for the dashboard can be found [here](#)  
-- **Python Scripts** – Models to project demand for the upcoming quarter are available [here](#)  
+- **Interactive Tableau Dashboards**   
+  - [Category Performance](https://public.tableau.com/app/profile/nguyen.hoang3434/viz/portprodash/Dashboard1?publish=yes)
+  - [Stock Dashboard](https://public.tableau.com/app/profile/nguyen.hoang3434/viz/ContosoDashboards/Dashboard4?publish=yes) 
+  - [Sales Trends Dashboard](https://public.tableau.com/app/profile/nguyen.hoang3434/viz/ContosoDashboard/Dashboard3?publish=yes)
+  - [Sales Dashboard](https://public.tableau.com/app/profile/nguyen.hoang3434/viz/ContosoDashboards/Dashboard1?publish=yes)
+  
+- **SQL Queries** – Scripts used to clean, organize, and prepare data for the dashboard can be found [here](Stock_analysis)  
+- **Python Scripts** – Models to project demand for the upcoming quarter are available [here](Demand_forecast)  
 
 ## Contoso Database ERD & Initial Checks
 
@@ -177,4 +182,4 @@ In summary, the business thrives on **computers and electronics**, but sustainin
 
 ### 4. Optimizing Channels and Platform
 * Expand affliate partnerships: Increase affiliate partnerships or offer higher commision to atrract influencers, enhancing brand reach and boosting AOV 
-* Enhance mobile app experience: Since the highest ROI products are electronics targeting youngsters, 
+* Enhance mobile app experience: Since the highest ROI products are electronics targeting youngsters, optimize the mobile interface for speed and ease of use, introduce personalized product recommendations, and integrate gamified promotions. This increases engagement, drives repeat purchases, and captures impulse buying behavior typical of younger demographics.
