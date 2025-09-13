@@ -178,4 +178,3 @@ In summary, the business thrives on **computers and electronics**, but sustainin
 ### 4. Optimizing Channels and Platform
 * Expand affliate partnerships: Increase affiliate partnerships or offer higher commision to atrract influencers, enhancing brand reach and boosting AOV 
 * Enhance mobile app experience: Since the highest ROI products are electronics targeting youngsters, 
-
